@@ -49,6 +49,8 @@ Abra o index.html em um navegador.
 Use os botões de navegação para explorar as informações dos biomas.
 Esse README detalha a estrutura do projeto, destacando os objetivos educacionais e interativos para o Dia D na escola.
 
+[Clique aqui](https://hillybrito.github.io/amobiotech/)
+
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/HillyBrito)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hillybrito)
